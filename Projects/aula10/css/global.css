@@ -1,0 +1,53 @@
+body {
+    background-color: lightblue;
+    justify-content: center;
+}
+.menu {
+    background-color: burlywood;
+    width: 1850px;
+    height: 80px;
+}
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px
+}
+.menu {
+    height: 80px;
+    width: 1850px;
+    margin-left: 10px;
+}
+.central {
+    height: 400px;
+    width: 500px;
+    display: flex;
+    margin-top: -780px;
+    margin-left: 590px;
+}   
+.imagens {
+    width: 700px;
+    height: 400px;
+}
+.form {
+    background-color: burlywood;
+    height: 450px;
+    width: 1850px;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.post {
+    display: flex;
+    margin-top: 100px;
+    margin-left: 420px;
+
+    img {
+        height: 150px;
+        width: 300px;
+    }
+}
+.card {
+    background-color: burlywood;
+    height: 180px;
+    width: 300px;
+    margin: 30px;
+}

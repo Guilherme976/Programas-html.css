@@ -1,0 +1,43 @@
+body {
+    background-color: cornflowerblue;
+}
+.redondo {
+    background-color: brown;
+    width: 580px;
+    height: 420px;
+    margin-left: 450px;
+    margin-top: 100px;
+    border-radius: 30px;
+}
+.retangular {
+    background-color: chocolate;
+    width: 400px;
+    height: 80px;
+    margin-left: 1100px;
+    margin-top: -420px;
+}
+.quadrado {
+    background-color: chocolate;
+    width: 400px;
+    height: 300px;
+    margin-left: 1100px;
+    margin-top: 40px;
+}
+.form {
+    display: flex;
+    margin-left: 420px;
+    img {
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        justify-content: center;
+    }
+}
+.bolinhas {
+    background-color: chocolate;
+    width: 80px;
+    height: 80px;
+    margin-top: 30px;
+    margin: 25px;
+    border-radius: 50%;
+}

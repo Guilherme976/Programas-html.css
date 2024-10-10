@@ -1,0 +1,102 @@
+body {
+    background-color: blue;
+}
+.imagem {
+    background-color: cornflowerblue;
+    height: 300px;
+    width: 450px;
+    border-radius: 20px;
+    display: flex;
+    margin-left: 1285px;
+    margin-top: 10px;
+    img {
+        width: 320px;
+        height: 250px;
+        justify-content: center;
+        border-radius: 10px;
+        margin-top: 20px;
+        margin-left: 70px;
+    }
+}
+.texto {
+    background-color: cornflowerblue;
+    height: 650px;
+    width: 500px;
+    border-radius: 20px;
+    margin-top: -300px;
+    margin-left: 750px;
+}
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+p {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.texto-imagem {
+    background-color: cornflowerblue;
+    height: 650px;
+    width: 720px;
+    border-radius: 20px;
+    margin-top: -650px;
+    margin-left: 10px;
+    
+}
+h2 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+ol {
+    text-align: center;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.central {
+    height: 250px;
+    width: 320px;
+    margin-left: 1355px;
+    margin-top: -280px;
+    
+}
+.imagens {
+    height: 250px;
+    width: 320px;
+    border-radius: 10px;
+}
+.ajuste {
+    background-color: cornflowerblue;
+    height: 300px;
+    width: 450px;
+    margin-left: 1260px;
+    margin-top: 20px;
+}
+.ajuste {
+    background-color: cornflowerblue;
+    height: 300px;
+    width: 450px;
+    margin-left: 1290px;
+    margin-top: -280px;
+    border-radius: 20px;
+}
+.container {
+    background-color: cornflowerblue;
+    margin-top: 30px;
+    margin-left: 10px;
+    height: 150px;
+    width: 860px;
+    border-radius: 20px;
+}
+h3 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+.card {
+    background-color: cornflowerblue;
+    margin-left: 900px;
+    margin-top: -150px;
+}
